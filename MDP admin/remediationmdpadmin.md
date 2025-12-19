@@ -1,0 +1,3 @@
+Ne pas mettre le hash du mdp root sur le serveur ... 
+dans ./whatever
+bloquer les scan gobuster
