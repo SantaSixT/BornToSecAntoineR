@@ -1,3 +1,4 @@
+Utilisation du crawler.py
 Nom de la faille : Exposition de Données Sensibles (Sensitive Data Exposure) via "Sécurité par l'obscurité". 
 
 1. Le Problème (L'erreur du développeur) Le développeur a cru que cacher un fichier important (le flag) dans une arborescence complexe (/.hidden/.../.../README) suffirait à le protéger. 
